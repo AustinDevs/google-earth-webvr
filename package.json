@@ -1,0 +1,16 @@
+{
+  "name": "google-earth-webvr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AustinDevs/google-earth-webvr.git",
+  "author": "Kevin Colten <kevincolten@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "earth-reverse-engineering": "retroplasma/earth-reverse-engineering",
+    "http-server": "^0.11.1",
+    "obj2gltf": "^3.0.0"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
