@@ -23,7 +23,9 @@ When you open the repo in your code editor, you should see it within downloaded_
 
 We will be using A-Frame https://aframe.io/ which is a web framework based upon HTML for building virtual reality experiences.  More specifically, we will use the gtlf model primitive to display the 3D glTF model we downloaded: https://aframe.io/docs/0.9.0/primitives/a-gltf-model.html
 
-node ./node_modules/earth-reverse-engineering center_scale_obj.js downloaded_files/obj/22053525261515-13-823
+The object must be centered properly by running `node ./node_modules/earth-reverse-engineering center_scale_obj.js downloaded_files/obj/22053525261515-13-823`
+
+Open Blender.  Navigate to File -> Import -> Wavefront (obj). Import the downloaded file from above.
 
 
 *Troubleshooting*  
