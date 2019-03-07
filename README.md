@@ -38,6 +38,6 @@ Run  `yarn add obj2gltf`
 `npx obj2gltf -i downloaded-files/obj/22053525261515-13-823/{rendered file save in previous step}`
     * Example: `npx obj2gltf -i downloaded_files/obj/2053525261515-13-823/model.3.obj -o downloaded_files/obj/2053525261515-13-823/model.3.gltf`
 
-* Add link into index.html.  Yarn start to open in 3D VR environment.
+* Add link into the source tag in index.html.  Yarn start to open in 3D VR environment.
 
 ### Troubleshooting
