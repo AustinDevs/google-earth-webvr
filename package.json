@@ -8,7 +8,7 @@
   "dependencies": {
     "earth-reverse-engineering": "retroplasma/earth-reverse-engineering",
     "http-server": "^0.11.1",
-    "obj2gltf": "^3.0.0"
+    "obj2gltf": "^3.0.1"
   },
   "scripts": {
     "start": "http-server"
