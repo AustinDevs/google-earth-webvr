@@ -33,7 +33,9 @@ The command line should now indicate that 2053525261515 was found and downloaded
 
 * This will save the new centered object as model.2.obj.
 
-* Open Blender.  Navigate to File -> Import -> Wavefront (obj). Import the downloaded file from above.  You'll likely see a very odd view.  Click on view in bottom left corner and change to see from bottom, top, etc.
+* Open Blender (free and open source download: https://www.blender.org/)  We will use this software to make some edits to the file for improved VR viewing purposes.
+
+Navigate to File -> Import -> Wavefront (obj). Import the downloaded file from above.  You'll likely see a very odd view.  Click on view in bottom left corner and change to see from bottom, top, etc.
 
 * Click on Add -> Lamp -> Hemi.  Then click on the little ball icon to the right of Object Mode and click on "Rendered".  Now the image will show up properly.  You can save the rendered file by clicking File -> Export.  
 
